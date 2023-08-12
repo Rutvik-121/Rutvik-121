@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in **Coding and Exploring new things!**
 
-- 🌱 I’m currently learning **Computer Science and Business Systems in my college.**
+- 🌱 I’m currently learning **Computer Science in my college.**
 
 - 👯 I’m looking to collaborate on **Beginner Level Projects.**
 
