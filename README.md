@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Rutvik-121
-- 👀 I’m interested in coding and exploring new things!
-- 🌱 I’m currently learning Computer Science in my college.
-- 💞️ I’m looking to collaborate on beginner level projects.
 
 <!---
 Rutvik-121/Rutvik-121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +8,16 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvik-121&label=Profile%20views&color=0e75b6&style=flat" alt="rutvik-121" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutvik-121" alt="rutvik-121" /></a> </p>
+
+- 👀 I’m interested in **Coding and Exploring new things!**
+
+- 🌱 I’m currently learning **Computer Science and Business Systems in my college.**
+
+- 👯 I’m looking to collaborate on **Beginner Level Projects.**
+
+- 📫 How to reach me **rutvikg2003@gmail.com**
+
+- ⚡ Fun fact **I think I am a coder😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +38,4 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutvik-121&show_icons=true&locale=en" alt="rutvik-121" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutvik-121&" alt="rutvik-121" /></p>
+
